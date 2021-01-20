@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything Techy
 - 📫 How to reach me: sagnikmitra123@gmail.com
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I have always been that Jack of All, Master of Nothing kinda guy :(
+- ⚡ Fun fact: Trying not to be that Jack of All guy :(
 
 
