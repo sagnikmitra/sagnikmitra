@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning JS
 - 👯 I’m looking to collaborate on Youtube & Webinars
 - 🤔 I’m looking for help with CP
 - 💬 Ask me about Anything Techy
