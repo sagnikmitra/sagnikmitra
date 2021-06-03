@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/mitrasagnik" target="blank"><img src="https://img.shields.io/twitter/follow/mitrasagnik?logo=twitter&style=for-the-badge" alt="mitrasagnik" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### Latest Blog
+### [Streamlit Web App with Python](https://sagnikmitra123.medium.com/hosting-your-first-python-web-app-with-streamlit-8970b0cc2dd8)
+
 
 <h3 align="left">Connect with Me:-</h3>
 <p align="left">
