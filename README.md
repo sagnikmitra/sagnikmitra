@@ -14,7 +14,7 @@
 ### [Machine Learning RT Visual Implementation with Streamlit](https://sagnikmitra123.medium.com/hosting-your-first-python-web-app-with-streamlit-8970b0cc2dd8)
 ### [Edulive Aid - Online Teaching Management & Resource Control System](tinyurl.com/eduliveaid)
 ### [CovidOff - Covid Leads Generation Portal](https://covidoff.live)
-### [EduFlex - Job & Internship Portal](https://sagnikmitra123.medium.com/hosting-your-first-python-web-app-with-streamlit-8970b0cc2dd8)
+### [EduFlex - Job & Internship Portal](https://sagnik.tech/eduflex)
 ### [Gender Recognition from Audio Source](https://sagnikmitra123.medium.com/hosting-your-first-python-web-app-with-streamlit-8970b0cc2dd8)
 ### [Vistara Boarding Management System](https://sagnikmitra123.medium.com/hosting-your-first-python-web-app-with-streamlit-8970b0cc2dd8)
 
