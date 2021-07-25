@@ -16,7 +16,7 @@
 ### [CovidOff - Covid Leads Generation Portal](https://sagnikmitra123.medium.com/hosting-your-first-python-web-app-with-streamlit-8970b0cc2dd8)
 ### [EduFlex - Job & Internship Portal](https://sagnikmitra123.medium.com/hosting-your-first-python-web-app-with-streamlit-8970b0cc2dd8)
 ### [Gender Recognition from Audio Source](https://sagnikmitra123.medium.com/hosting-your-first-python-web-app-with-streamlit-8970b0cc2dd8)
-### [Edulive Aid - Online Teaching Management & Resource Control System](https://sagnikmitra123.medium.com/hosting-your-first-python-web-app-with-streamlit-8970b0cc2dd8)
+### [Vistara Boarding Management System](https://sagnikmitra123.medium.com/hosting-your-first-python-web-app-with-streamlit-8970b0cc2dd8)
 
 ### Follow My Youtube Videos
 ### [Streamlit Web App with Python](https://sagnikmitra123.medium.com/hosting-your-first-python-web-app-with-streamlit-8970b0cc2dd8)
