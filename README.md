@@ -1,51 +1,83 @@
-<h2 align="center">Welcome to the Virtual<br>Folder of Sagnik Mitra</h2>
-<h3 align="center">Gold MLSA | Software Engineer Intern, Odessa | FrontEnd Developer | Python</h3>
+---
+<h1 align="center">Hi there, I'm Sagnik Mitra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
+<h3 align="center">Founding Member & UI/UX Designer, Perccent | Lead Organizer, Hack4Bengal | Gold Microsoft LSA | Ex Odessa</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagnikmitra&label=Profile%20views&color=0e75b6&style=flat" alt="sagnikmitra" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagnikmitra" alt="sagnikmitra" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mitrasagnik" target="blank"><img src="https://img.shields.io/twitter/follow/mitrasagnik?logo=twitter&style=for-the-badge" alt="mitrasagnik" /></a> </p>
-
-### Latest Blog
-### [Streamlit Weekly Series - Web App with Python](https://sagnikmitra123.medium.com/hosting-your-first-python-web-app-with-streamlit-8970b0cc2dd8)
-
-### Follow My Projects
-### [Machine Learning RT Visual Implementation with Streamlit](https://sagnikmitra123.medium.com/hosting-your-first-python-web-app-with-streamlit-8970b0cc2dd8)
-### [Edulive Aid - Online Teaching Management & Resource Control System](tinyurl.com/eduliveaid)
-### [CovidOff - Covid Leads Generation Portal](https://covidoff.live)
-### [EduFlex - Job & Internship Portal](https://sagnik.tech/eduflex)
-### [Gender Recognition from Audio Source](https://sagnikmitra123.medium.com/hosting-your-first-python-web-app-with-streamlit-8970b0cc2dd8)
-### [Vistara Boarding Management System](https://sagnikmitra123.medium.com/hosting-your-first-python-web-app-with-streamlit-8970b0cc2dd8)
-
-### Follow My Youtube Videos
-### [Streamlit Web App with Python](https://sagnikmitra123.medium.com/hosting-your-first-python-web-app-with-streamlit-8970b0cc2dd8)
-### [Vehicel Routing Optimization](https://sagnikmitra123.medium.com/hosting-your-first-python-web-app-with-streamlit-8970b0cc2dd8)
-
-
-
-
-<h3 align="left">Connect with Me:-</h3>
-<p align="left">
-<a href="https://dev.to/sagnik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sagnik" height="30" width="40" /></a>
-<a href="https://twitter.com/mitrasagnik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mitrasagnik" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sagnikmitra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sagnikmitra" height="30" width="40" /></a>
-<a href="https://kaggle.com/sagnikmitra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="sagnikmitra" height="30" width="40" /></a>
-<a href="https://fb.com/sagnik.mitra.562" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sagnik.mitra.562" height="30" width="40" /></a>
-<a href="https://instagram.com/artimkingas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="artimkingas" height="30" width="40" /></a>
-<a href="https://medium.com/@sagnikmitra123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sagnikmitra123" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sagnikmitra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sagnikmitra" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sagnikmitra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sagnikmitra" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sagnikmitra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sagnikmitra" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/sagnikmitra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="sagnikmitra" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/sagnikmitra">
+    <img src="https://komarev.com/ghpvc/?username=sagnikmitra&label=Profile%20views&color=0e75b6&style=flat" alt="sagnikmitra" />
+  </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagnikmitra&show_icons=true&locale=en&layout=compact" alt="sagnikmitra" /></p>
+## 🚀 About Me
+- 🎓 CS & Business Systems Grad | Ex-MLSA Gold | Community Builder
+- 🧠 Passionate about product design, system thinking, and frontend development
+- 🛠️ Founding Member & UI/UX Designer @ Perccent – simplifying mutual fund investing
+- 🎤 Lead Organizer of Hack4Bengal – 6200+ hackers, 100+ team members, 20+ partners (Google Cloud, Microsoft, Ethereum, etc.)
+- 🛠️ Co-founder @ Advox – a platform connecting clients with verified lawyers
+- 💡 Former Software Engineer @ Odessa – built innovation-winning products (CrossPortal Chatbot, SQL Tools)
+- ✍️ Published multiple blogs and YouTube tutorials on Streamlit, ML, and automation
+- 🌱 Interested in scalable systems, design-first thinking, and open innovation
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagnikmitra&show_icons=true&locale=en" alt="sagnikmitra" /></p>
+---
 
+## 📌 Featured Projects
 
+- 🔗 [Perccent – Mutual Fund Platform](https://perccent.com): Built from scratch, including branding, design system, and full product UI/UX across mobile and web
+- 🔗 [Advox – Legal-Tech Platform](https://sagnikmitra.com/advox): UX-first legal consultation platform with real-time booking and case submission
+- 🔗 [Hack4Bengal Platform](https://sagnikmitra.com/hack4bengal): Interactive hackathon platform with 15k+ monthly visits, Android app & dynamic CMS
+- 🔗 [CovidOff – COVID Help Desk](https://sagnikmitra.com/covidoff): Emergency resource portal + GitHub & Twitter bot integrations
+- 🔗 [EduFlex – Job & Internship Portal](https://sagnikmitra.com/eduflex): Designed core platform + scaled brand for aligned ventures (Talentyze, Duorecruit)
+- 🔗 [Qwiklabs Tracker – Streamlit WebApp](https://sagnikmitra.com/qwiklabs): Google Cloud badge tracker with Sheets & GCP backend
+- 🔗 [Vehicular Routing Optimizer](https://www.youtube.com/@sagnikmitra): Streamlit-powered ML route planner (YouTube tutorial)
+- 🔗 [RegEx & SQL Utilities](https://github.com/sagnikmitra/tools-hub): Tools built during Odessa tenure to boost team efficiency
 
+---
+
+## 🧠 Skills
+
+**UI/UX & Product Design:** Figma, Sketch, Framer, Webflow, Penpot, UXPin, Spline  
+**Marketing Graphics:** InDesign, Zapier, Canva, Photoshop, Illustrator, Adobe XD  
+**Design Systems & User Research:** Zeroheight, Storybook, Maze, Hotjar, Notion, Figma Design Tokens  
+**Programming & Dev Tools:** Streamlit, Firebase Studio, Cursor, Bolt.new, Copilot  
+**Project Management:** Miro, Monday.com, Notion, JIRA, Confluence, Balsamiq, Trello
+
+---
+
+## 📚 Popular GitHub Repos
+
+- 🌐 [covidoff/covidoff](https://github.com/covidoff/covidoff) – Real-time COVID help portal
+- 💬 [sagnikmitra/chatbot-system](https://github.com/sagnikmitra/chatbot-system) – Cross-platform chatbot for inter-portal messaging
+- 📈 [sagnikmitra/qwiklabs-tracker](https://github.com/sagnikmitra/qwiklabs-tracker) – Google Cloud program tracker used across 500+ colleges
+- 🧰 [sagnikmitra/tools-hub](https://github.com/sagnikmitra/tools-hub) – A collection of utility tools (formatters, converters, validators)
+
+---
+
+## 📫 Let's Connect!
+
+[![Twitter](https://img.shields.io/badge/Twitter-@mitrasagnik-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/mitrasagnik)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sagnik%20Mitra-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sagnikmitra)  
+[![Medium](https://img.shields.io/badge/Medium-sagnikmitra123-000000?style=for-the-badge&logo=medium)](https://medium.com/@sagnikmitra123)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-sagnikmitra.com-9cf?style=for-the-badge&logo=vercel)](https://sagnikmitra.com)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sagnikmitra&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnikmitra&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sagnikmitra&theme=gruvbox&margin-w=10" alt="Trophies" />
+</p>
+
+---
+<!-- Updated May 2025 | Let's build something cool together 🚀 -->
